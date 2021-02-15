@@ -1,2 +1,2 @@
 # NovelDex
-Public site for noveldex
+A website for share fan translation of Light Novel !
